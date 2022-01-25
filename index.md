@@ -1,8 +1,9 @@
+![B-P](https://user-images.githubusercontent.com/98388425/150973049-931dc1a7-5759-4547-b862-65e7f2422601.png)
 ## HomePage of Xianghan Cui
 
 You can use the [editor on GitHub](https://github.com/xianghancui/xianghancui.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-![B-P](https://user-images.githubusercontent.com/98388425/150973049-931dc1a7-5759-4547-b862-65e7f2422601.png)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
